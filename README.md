@@ -2,11 +2,6 @@
 
 ## Freelance Technical Product Manager
 
-I am passionate about bridging the gap between technology and product 
-management, helping to turn innovative ideas into successful market 
-products. With my background in both development and product strategy, I 
-am uniquely positioned to be your ally in navigating the path to success.
-
 ### My Skills
 
 - **Product Ownership / Management**: Expertise in guiding products from 
