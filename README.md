@@ -17,4 +17,4 @@ interfaces.
 Visit my website: [odran-husson.fr](https://odran-husson.fr)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdranHUSSON&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdranHUSSON&layout=compactlangs_count=10)
