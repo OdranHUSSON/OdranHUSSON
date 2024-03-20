@@ -1,5 +1,7 @@
 # Hi, I'm Odran
 
+Latest project https://aismarttalk.tech/ 
+
 ## Freelance Technical Product Manager
 
 ### My Skills
