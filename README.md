@@ -4,7 +4,7 @@
 
 Latest project https://aismarttalk.tech/ 
 
-## Freelance Technical Product Manager
+## Co-founder @ AI SmartTalk
 
 ### My Skills
 
